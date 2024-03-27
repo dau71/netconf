@@ -10,8 +10,8 @@ import (
 	"os"
 	"time"
 
-	"github.com/nemith/netconf"
-	nctls "github.com/nemith/netconf/transport/tls"
+	"github.com/dau71/netconf"
+	nctls "github.com/dau71/netconf/transport/tls"
 )
 
 const tlsAddr = "myrouter.example.com:6513"

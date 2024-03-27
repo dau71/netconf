@@ -12,7 +12,7 @@ import (
 	"sync/atomic"
 	"syscall"
 
-	"github.com/nemith/netconf/transport"
+	"github.com/dau71/netconf/transport"
 )
 
 var ErrClosed = errors.New("closed connection")

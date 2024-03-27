@@ -11,8 +11,8 @@ import (
 	"strings"
 	"testing"
 
-	"github.com/nemith/netconf"
-	ncssh "github.com/nemith/netconf/transport/ssh"
+	"github.com/dau71/netconf"
+	ncssh "github.com/dau71/netconf/transport/ssh"
 	"github.com/stretchr/testify/assert"
 	"github.com/stretchr/testify/require"
 	"golang.org/x/crypto/ssh"
